@@ -17,5 +17,6 @@
 
     <ImageView
         style="@style/image_view"
+        android:id="@+id/imageView"
         app:srcCompat="@drawable/coal" />
 </RelativeLayout>
